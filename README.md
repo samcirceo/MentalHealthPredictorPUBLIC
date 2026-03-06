@@ -5,7 +5,7 @@
 ![ggplot2](https://img.shields.io/badge/ggplot2-EA5E5E) 
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-4CAF50)
 
-This project explores predicting mental health outcomes based on behavioral and demographic variables. It demonstrates **data cleaning, exploratory data analysis, visualization, and regression modeling** in R using real-world survey data. The goal was to predict the number of "poor mental health days" reported in the past 30 days based on several variables such as exercise habits, income, and interview timing.
+This project explores predicting mental health outcomes based on behavioral and demographic variables. It demonstrates **Data Cleaning, Exploratory Data Analysis (EDA), Data Visualization, and Regression Modeling** in R using real-world survey data. The goal was to predict the number of "poor mental health days" reported in the past 30 days based on several variables such as exercise habits, income, and interview timing.
 
 _This repository provides a high level overview of the project. The [complete project](https://github.com/samcirceo/MentalHealthPredictor), including code and detailed results, is available in a private repository. If you would like access, please contact me with your GitHub username._
 
