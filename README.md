@@ -34,5 +34,3 @@ _This repository provides a high level overview of the project. The [complete pr
 - 🚀 Browse my other projects on my [portfolio](https://samcirceo.github.io/)
 - 📫 Reach me at: samicirceo1@gmail.com
 
-To request access, please email me your GitHub username.
-
