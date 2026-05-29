@@ -29,5 +29,8 @@ _This repository provides a high level overview of the project. The [complete pr
 - Incorporate additional variables such as stress levels, sleep quality, work environment, and other demographics to improve predictive power
 - Experiment with more complex models like Support Vector Regression, Decision Trees, or Ensemble methods
 
-
+### Where to next?
+- 🔒 View the [full private repository](https://github.com/samcirceo/MentalHealthPredictor) for this project *(available upon request)*
+- 🚀 Browse my other projects on my [portfolio](https://samcirceo.github.io/)
+- 📫 Reach me at: samicirceo1@gmail.com
 
